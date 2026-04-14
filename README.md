@@ -54,6 +54,7 @@
 </p>
 
 ## Updates
+- [13/2/26] 🔥 We updated a comprehensive [manuscript](https://arxiv.org/abs/2412.14058) that includes many recent progress and RoboVLMs has been accepted by Nature Machine Intelligence!
 - [12/11/24] 🔥 Multi-modal foundation models [blast](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation), but how will they help robots? We have released RoboVLMs to help the community on this! RoboVLMs is a flexible codebase that allows integrating most of VLMs within 30 lines of codes. We also release the strongest VLA model (driven by KosMos VLM backbone). See our technical report at [here](https://robovlms.github.io).
 
 ## Contents
